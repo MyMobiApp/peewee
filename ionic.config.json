@@ -1,5 +1,7 @@
 {
   "name": "peewee",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

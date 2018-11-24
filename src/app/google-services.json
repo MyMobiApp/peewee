@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1004389039138",
+    "firebase_url": "https://peewee-ac3e1.firebaseio.com",
+    "project_id": "peewee-ac3e1",
+    "storage_bucket": "peewee-ac3e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004389039138:android:ebfaee7a4748382d",
+        "android_client_info": {
+          "package_name": "com.mastishka.peewee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004389039138-hh0r4ivnbevap7q14hq4jjpg9a935vva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRP7zZ02yUSGBPuaZ2lxDfWtO4Jzfqt3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -7,18 +7,23 @@ import { FormsModule } from '@angular/forms';
 import { TabsPageRoutingModule } from './tabs.router.module';
 
 import { TabsPage } from './tabs.page';
+import { NewsPageModule } from '../news/news.module';
+import { RestaurantPageModule } from '../restaurant/restaurant.module';
 import { ContactPageModule } from '../contact/contact.module';
-import { AboutPageModule } from '../about/about.module';
-import { HomePageModule } from '../home/home.module';
+import { WorkPageModule } from '../work/work.module';
+import { ECommercePageModule } from '../ecommerce/ecommerce.module';
 
 @NgModule({
   imports: [
     IonicModule,
+    RouterModule,
     CommonModule,
     FormsModule,
     TabsPageRoutingModule,
-    HomePageModule,
-    AboutPageModule,
+    NewsPageModule,
+    RestaurantPageModule,
+    ECommercePageModule,
+    WorkPageModule,
     ContactPageModule
   ],
   declarations: [TabsPage]
